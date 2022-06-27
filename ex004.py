@@ -1,3 +1,5 @@
+# Dissecando uma variavel
+
 something = input('Digite algo: ')
 print('O tipo primitivo desse valor é', type(something))
 print('Só tem espaços? ', something.isspace())
