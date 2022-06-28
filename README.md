@@ -11,8 +11,10 @@ Exercícios criados em conjunto com o professor Gustavo Guanabara do Curso em Vi
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex009.py">Tabuada</a><br>
 <a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex010.py">Conversor de Moedas</a><br>
 <a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex011.py">Pintando Paredes</a><br>
-<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex012.py">Calculando Descontos</a><br><br><br>
-
+<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex012.py">Calculando Descontos</a><br>
+<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex013.py">Reajuste Salárial</a><br>
+<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex014.py">Conversor de Temperatura</a><br>
+<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex015.py">Aluguel de Carros</a><br>
 
 # Link do Curso:
  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">Python - Mundo 1 | Curso em Video</a><br>
