@@ -8,9 +8,13 @@ Exercícios criados em conjunto com o professor Gustavo Guanabara do Curso em Vi
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex006.py">Dobro, Triplo e Raiz Quadrada</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex007.py">Média Aritmética</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex008.py">Conversor de Medidas</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex009.py">Tabuada</a><br><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex009.py">Tabuada</a><br>
+<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex010.py">Conversor de Moedas</a><br>
+<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex011.py">Pintando Paredes</a><br>
+<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex012.py">Calculando Descontos</a><br><br><br>
 
-Link do curso:
+
+# Link do Curso:
  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">Python - Mundo 1 | Curso em Video</a><br>
  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-2/">Python - Mundo 2 | Curso em Video</a>
    
