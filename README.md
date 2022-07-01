@@ -4,7 +4,7 @@ Exercícios criados em conjunto com o professor Gustavo Guanabara do Curso em Vi
 Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consultava as resoluções do professor, mas foram feitos com total prática, consultando documentações e as resoluções do professor. Todos os exercícios foram digitados linha a linha por mim mesma.
 
 
-### Exercitando tipos primitivos e operações em Python:<br>
+### Exercicios de Tipos Primitivos e Operações:<br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/aula006.py">Somando dois Números</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex004.py">Dissecando uma Variavel</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex005.py">Antecessor e Sucessor</a><br>
@@ -19,7 +19,7 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 <a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex014.py">Conversor de Temperatura</a><br>
 <a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex015.py">Aluguel de Carros</a><br><br>
 
-### Exercícios utilizando módulos:
+### Exercícios Utilizando Módulos:
 
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex016.py">Quebrando um Número</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex017.py">Cateto e Hipotenusa</a><br>
@@ -28,7 +28,7 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex020.py">Sorteando uma Ordem na Lista</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex021.py">Tocando Arquivo MP3</a><br><br>
 
-### Exercícios Manipulando Strings<br>
+### Exercícios Manipulando Strings:<br>
 
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex022.py">Analizador de Textos</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex023.py">Separando Dígitos de um Número</a><br>
@@ -37,7 +37,7 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex026.py">Primeira e Última Ocorrência de uma String</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex027.py">Primeiro e Último Nome de uma Pessoa</a><br><br>
 
-### Exercíos de Condições
+### Exercíos de Condições:
 
 <br><br>
 # Link do Curso:
