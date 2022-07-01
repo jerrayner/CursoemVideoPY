@@ -27,6 +27,18 @@ Exercícios criados em conjunto com o professor Gustavo Guanabara do Curso em Vi
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex020.py">Sorteando uma Ordem na Lista</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex021.py">Tocando Arquivo MP3</a><br>
 
+### Exercícios Manipulando Strings<br>
+
+<a href="">Analizador de Textos</a><br>
+<a href="">Separando Dígitos de um Número</a><br>
+<a href="">Verificando as Primeiras Letras de um Texto</a><br>
+<a href="">Procurando uma String Dentro de Outra</a><br>
+<a href="">Primeira e Última Ocorrência de uma String</a><br>
+<a href="">Primeiro e Último Nome de uma Pessoa</a><br>
+
+### Exercíos de Condições
+
+<br><br>
 # Link do Curso:
  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">Python - Mundo 1 | Curso em Video</a><br>
  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-2/">Python - Mundo 2 | Curso em Video</a>
