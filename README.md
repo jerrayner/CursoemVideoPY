@@ -3,7 +3,7 @@
 Exercícios criados em conjunto com o professor Gustavo Guanabara do Curso em Video, efetuados na IDE PyCharm.
 
 
-Exercitando tipos primitivos e operações em Python:<br>
+### Exercitando tipos primitivos e operações em Python:<br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/aula006.py">Somando dois Números</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex004.py">Dissecando uma Variavel</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex005.py">Antecessor e Sucessor</a><br>
@@ -18,7 +18,7 @@ Exercitando tipos primitivos e operações em Python:<br>
 <a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex014.py">Conversor de Temperatura</a><br>
 <a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex015.py">Aluguel de Carros</a><br>
 
-Exercícios utilizando módulos:
+### Exercícios utilizando módulos:
 <br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex016.py">Quebrando um Número</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex017.py">Cateto e Hipotenusa</a><br>
