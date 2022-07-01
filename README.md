@@ -39,6 +39,15 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 
 ### Exercíos de Condições:
 
+<a href="">Adivinhe o Número</a><br>
+<a href="">Radar Eletronico</a><br>
+<a href="">Par ou Ímpar?</a><br>
+<a href="">Custo da Viagem</a><br>
+<a href="">Ano Bissexto</a><br>
+<a href="">Maior e Menor Valores</a><br>
+<a href="">Aumentos Múltiplos</a><br>
+<a href="">Analisando Triangulo</a><br>
+
 <br><br>
 # Link do Curso:
  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">Python - Mundo 1 | Curso em Video</a><br>
