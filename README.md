@@ -39,14 +39,14 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 
 ### Exercíos de Condições:
 
-<a href="">Adivinhe o Número</a><br>
-<a href="">Radar Eletronico</a><br>
-<a href="">Par ou Ímpar?</a><br>
-<a href="">Custo da Viagem</a><br>
-<a href="">Ano Bissexto</a><br>
-<a href="">Maior e Menor Valores</a><br>
-<a href="">Aumentos Múltiplos</a><br>
-<a href="">Analisando Triangulo</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex028.py">Adivinhe o Número</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex029.py">Radar Eletronico</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex030.py">Par ou Ímpar?</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex031.py">Custo da Viagem</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex032.py">Ano Bissexto</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex033.py">Maior e Menor Valores</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex034.py">Aumentos Múltiplos</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex035.py">Analisando Triangulo</a><br>
 
 <br><br>
 # Link do Curso:
