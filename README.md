@@ -17,16 +17,16 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 <a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex012.py">Calculando Descontos</a><br>
 <a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex013.py">Reajuste Salárial</a><br>
 <a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex014.py">Conversor de Temperatura</a><br>
-<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex015.py">Aluguel de Carros</a><br>
+<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex015.py">Aluguel de Carros</a><br><br><br>
 
 ### Exercícios utilizando módulos:
-<br>
+
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex016.py">Quebrando um Número</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex017.py">Cateto e Hipotenusa</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex018.py">Seno, Cosseno e Tangente</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex019.py">Sorteando um Item da Lista</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex020.py">Sorteando uma Ordem na Lista</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex021.py">Tocando Arquivo MP3</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex021.py">Tocando Arquivo MP3</a><br><br><br>
 
 ### Exercícios Manipulando Strings<br>
 
@@ -35,7 +35,7 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex024.py">Verificando as Primeiras Letras de um Texto</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex025.py">Procurando uma String Dentro de Outra</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex026.py">Primeira e Última Ocorrência de uma String</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex027.py">Primeiro e Último Nome de uma Pessoa</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex027.py">Primeiro e Último Nome de uma Pessoa</a><br><br><br>
 
 ### Exercíos de Condições
 
