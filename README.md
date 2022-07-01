@@ -20,12 +20,12 @@ Exercitando tipos primitivos e operações em Python:<br>
 
 Exercícios utilizando módulos:
 <br>
-<a href="">Quebrando um Número</a><br>
-<a href="">Cateto e Hipotenusa</a><br>
-<a href="">Seno, Cosseno e Tangente</a><br>
-<a href="">Sorteando um Item da Lista</a><br>
-<a href="">Sorteando uma Ordem na Lista</a><br>
-<a href="">Tocando Arquivo MP3</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex016.py">Quebrando um Número</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex017.py">Cateto e Hipotenusa</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex018.py">Seno, Cosseno e Tangente</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex019.py">Sorteando um Item da Lista</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex020.py">Sorteando uma Ordem na Lista</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex021.py">Tocando Arquivo MP3</a><br>
 
 # Link do Curso:
  <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">Python - Mundo 1 | Curso em Video</a><br>
