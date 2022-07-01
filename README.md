@@ -1,6 +1,7 @@
 # Exercícios de Python Básicos
 
 Exercícios criados em conjunto com o professor Gustavo Guanabara do Curso em Video, efetuados na IDE PyCharm.
+Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consultava as resoluções do professor, mas foram feitos com total prática, consultando documentações e as resoluções do professor. Todos os exercícios foram digitados linha a linha por mim mesma.
 
 
 ### Exercitando tipos primitivos e operações em Python:<br>
@@ -29,12 +30,12 @@ Exercícios criados em conjunto com o professor Gustavo Guanabara do Curso em Vi
 
 ### Exercícios Manipulando Strings<br>
 
-<a href="">Analizador de Textos</a><br>
-<a href="">Separando Dígitos de um Número</a><br>
-<a href="">Verificando as Primeiras Letras de um Texto</a><br>
-<a href="">Procurando uma String Dentro de Outra</a><br>
-<a href="">Primeira e Última Ocorrência de uma String</a><br>
-<a href="">Primeiro e Último Nome de uma Pessoa</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex022.py">Analizador de Textos</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex023.py">Separando Dígitos de um Número</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex024.py">Verificando as Primeiras Letras de um Texto</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex025.py">Procurando uma String Dentro de Outra</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex026.py">Primeira e Última Ocorrência de uma String</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex027.py">Primeiro e Último Nome de uma Pessoa</a><br>
 
 ### Exercíos de Condições
 
