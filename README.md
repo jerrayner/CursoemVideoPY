@@ -37,7 +37,7 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex026.py">Primeira e Última Ocorrência de uma String</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex027.py">Primeiro e Último Nome de uma Pessoa</a><br><br>
 
-### Exercíos de Condições:
+### Exercícios de Condições:
 
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex028.py">Adivinhe o Número</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex029.py">Radar Eletronico</a><br>
@@ -46,7 +46,22 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex032.py">Ano Bissexto</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex033.py">Maior e Menor Valores</a><br>
 <a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex034.py">Aumentos Múltiplos</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex035.py">Analisando Triangulo</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex035.py">Analisando Triangulo</a><br><br>
+
+### Exercícios de Condições Aninhadas
+
+<a href="">Aprovando Empréstimo</a><br>
+<a href="">Conversor de Bases Númericas</a><br>
+<a href="">Comparando Números</a><br>
+<a href="">Alistamento Militar</a><br>
+<a href="">Média</a><br>
+<a href="">Classificando Atletas</a><br>
+<a href="">Analisando Triângulos</a><br>
+<a href="">Índice de Massa Corporal</a><br>
+<a href="">Gerenciador de Pagamentos</a><br>
+<a href="">Pedra, Papel e Tesoura</a><br>
+
+
 
 <br><br>
 # Link do Curso:
