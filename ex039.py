@@ -16,9 +16,9 @@ anosRestantes = (18 - idade) + 2022  # calculo do ano em que deverá comparecer 
 anoAli = 2022 - (idade - 18)
 if idade == 18:
     print(f'Você tem {idade} anos, precisa se alistar até o dia 30 de junho deste ano.')
-if idade < 18:
+elif idade < 18:
     print(f'Você tem {idade} anos, faltam {18-idade} ano(s) para seu alistamento, você deverá se alistar em {anosRestantes}. ')
-if idade > 18:
+elif idade > 18:
     print(f'Seu alistamento foi {idade-18} anos atrás, foi no ano de {anoAli}. Se você for mulher e tiver menos que 29 anos, ainda poderá comparecer e solicitar alistamento.')
 print('Obrigado!')
 
