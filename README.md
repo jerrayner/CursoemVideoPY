@@ -50,16 +50,16 @@ Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consu
 
 ### Exercícios de Condições Aninhadas
 
-<a href="">Aprovando Empréstimo</a><br>
-<a href="">Conversor de Bases Númericas</a><br>
-<a href="">Comparando Números</a><br>
-<a href="">Alistamento Militar</a><br>
-<a href="">Média</a><br>
-<a href="">Classificando Atletas</a><br>
-<a href="">Analisando Triângulos</a><br>
-<a href="">Índice de Massa Corporal</a><br>
-<a href="">Gerenciador de Pagamentos</a><br>
-<a href="">Pedra, Papel e Tesoura</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex036.py">Aprovando Empréstimo</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex037.py">Conversor de Bases Númericas</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex038.py">Comparando Números</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex039.py">Alistamento Militar</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex040.py">Média</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex041.py">Classificando Atletas</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex042.py">Analisando Triângulos</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex043.py">Índice de Massa Corporal</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex044.py">Gerenciador de Pagamentos</a><br>
+<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex045.py">Pedra, Papel e Tesoura</a><br>
 
 
 
