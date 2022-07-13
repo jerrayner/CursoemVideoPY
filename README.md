@@ -4,63 +4,18 @@ Exercícios criados em conjunto com o professor Gustavo Guanabara do Curso em Vi
 Todos os exercícios foram feitos por mim, a medida que apareciam erros eu consultava as resoluções do professor, mas foram feitos com total prática, consultando documentações e as resoluções do professor. Todos os exercícios foram digitados linha a linha por mim mesma.
 
 
-### Exercicios de Tipos Primitivos e Operações:<br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/aula006.py">Somando dois Números</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex004.py">Dissecando uma Variavel</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex005.py">Antecessor e Sucessor</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex006.py">Dobro, Triplo e Raiz Quadrada</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex007.py">Média Aritmética</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex008.py">Conversor de Medidas</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex009.py">Tabuada</a><br>
-<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex010.py">Conversor de Moedas</a><br>
-<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex011.py">Pintando Paredes</a><br>
-<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex012.py">Calculando Descontos</a><br>
-<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex013.py">Reajuste Salárial</a><br>
-<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex014.py">Conversor de Temperatura</a><br>
-<a href ="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex015.py">Aluguel de Carros</a><br><br>
+### <a href="https://github.com/jerrayner/CursoemVideoPY/tree/main/ExTiposPrimitivoseOperacoes">Exercicios de Tipos Primitivos e Operações</a><br>
 
-### Exercícios Utilizando Módulos:
 
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex016.py">Quebrando um Número</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex017.py">Cateto e Hipotenusa</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex018.py">Seno, Cosseno e Tangente</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex019.py">Sorteando um Item da Lista</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex020.py">Sorteando uma Ordem na Lista</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex021.py">Tocando Arquivo MP3</a><br><br>
+### <a href="https://github.com/jerrayner/CursoemVideoPY/tree/main/ExUtilizandoM%C3%B3dulos">Exercícios Utilizando Módulos</a><br>
 
-### Exercícios Manipulando Strings:<br>
 
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex022.py">Analizador de Textos</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex023.py">Separando Dígitos de um Número</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex024.py">Verificando as Primeiras Letras de um Texto</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex025.py">Procurando uma String Dentro de Outra</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex026.py">Primeira e Última Ocorrência de uma String</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex027.py">Primeiro e Último Nome de uma Pessoa</a><br><br>
 
-### Exercícios de Condições:
+### <a href="https://github.com/jerrayner/CursoemVideoPY/tree/main/ExManipulandoStrings">Exercícios Manipulando Strings</a><br>
 
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex028.py">Adivinhe o Número</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex029.py">Radar Eletronico</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex030.py">Par ou Ímpar?</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex031.py">Custo da Viagem</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex032.py">Ano Bissexto</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex033.py">Maior e Menor Valores</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex034.py">Aumentos Múltiplos</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex035.py">Analisando Triangulo</a><br><br>
+### <a href="https://github.com/jerrayner/CursoemVideoPY/tree/main/ExCondicoes">Exercícios de Condições</a><br>
 
-### Exercícios de Condições Aninhadas
-
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex036.py">Aprovando Empréstimo</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex037.py">Conversor de Bases Númericas</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex038.py">Comparando Números</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex039.py">Alistamento Militar</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex040.py">Média</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex041.py">Classificando Atletas</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex042.py">Analisando Triângulos</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex043.py">Índice de Massa Corporal</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex044.py">Gerenciador de Pagamentos</a><br>
-<a href="https://github.com/jerrayner/CursoemVideoPY/blob/main/ex045.py">Pedra, Papel e Tesoura</a><br>
-
+### <a href="https://github.com/jerrayner/CursoemVideoPY/tree/main/ExCondicoesAninhadas">Exercícios de Condições Aninhadas</a><br>
 
 
 <br><br>
