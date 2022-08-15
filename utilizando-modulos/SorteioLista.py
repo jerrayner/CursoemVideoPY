@@ -1,4 +1,4 @@
-# Sorteando um item na lista
+# Sorteando um item na lista - Exercicio 19
 
 import random
 

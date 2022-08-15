@@ -1,4 +1,4 @@
-# Sorteando uma ordem na lista
+# Sorteando uma ordem na lista - Exercicio 20
 
 from random import shuffle
 

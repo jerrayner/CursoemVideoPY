@@ -1,4 +1,4 @@
-# Cateto e Hipotenusa
+# Cateto e Hipotenusa - Exercicio 17
 
 import math
 co= float(input("Digite o valor do cateto oposto: "))

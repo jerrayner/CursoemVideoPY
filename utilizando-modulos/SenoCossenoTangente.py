@@ -1,4 +1,4 @@
-# Seno, Cosseno e Tangente
+# Seno, Cosseno e Tangente - Exercício 18
 
 import math
 angulo = float(input('Digite o angulo desejado: '))
