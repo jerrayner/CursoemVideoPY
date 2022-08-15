@@ -1,4 +1,4 @@
-# Conversor de Moedas
+# Conversor de Moedas - Exercicio 10
 
 valor = float(input('Digite um valor em reais: '))
 dolar = valor / 5.20

@@ -1,4 +1,4 @@
-# Pintando Parede
+# Pintando Parede - Exercício 11
 
 largura =float(input('Largura da parede: '))
 altura = float(input('Altura da parede: '))

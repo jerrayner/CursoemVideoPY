@@ -1,4 +1,4 @@
-# Calculo de Média
+# Calculo de Média - Exercicio 7
 
 print('Calcule sua média escolar!')
 nota1 = float(input('Digite a nota da primeira avaliação: '))

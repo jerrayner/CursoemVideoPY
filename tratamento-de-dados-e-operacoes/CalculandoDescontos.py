@@ -1,4 +1,4 @@
-# Calculando Descontos
+# Calculando Descontos - Exercício 12
 
 valor = float(input('Digite o valor do produto: '))
 desconto = float(input('Digite o desconto: '))

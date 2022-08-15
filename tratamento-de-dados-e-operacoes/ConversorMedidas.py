@@ -1,4 +1,4 @@
-# Conversor de Medidas
+# Conversor de Medidas - Exercício 8
 
 medida = float(input('Digite uma distância em metros: '))
 mm = medida * 1000

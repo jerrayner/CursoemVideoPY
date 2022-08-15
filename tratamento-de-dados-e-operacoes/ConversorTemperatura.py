@@ -1,4 +1,4 @@
-# Conversor de Temperaturas
+# Conversor de Temperaturas - Exercício 14
 
 celsius = float(input('Informe a temperatura em °C: '))
 fahrenheit = ((9 * celsius) / 5) + 32

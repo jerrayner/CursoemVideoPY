@@ -1,4 +1,4 @@
-# Tabuada
+# Tabuada - Exercício 9
 print('=' * 42)
 num = int(input('Entre com um número para ver sua tabuada: '))
 print(f'{num} * {2:2} = {num*1}')

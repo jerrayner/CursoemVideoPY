@@ -1,4 +1,4 @@
-# Dissecando uma variavel
+# Dissecando uma variavel - Exercicio 4
 
 something = input('Digite algo: ')
 print('O tipo primitivo desse valor é', type(something))

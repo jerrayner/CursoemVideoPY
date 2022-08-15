@@ -1,4 +1,4 @@
-# Aluguel de Carros
+# Aluguel de Carros - Exercicio 15
 
 km_rodado = int(input('Quantos km o carro rodou? '))
 dias_alugados = int(input('Quantos dias o carro permaneceu alugado? '))

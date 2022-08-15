@@ -1,4 +1,4 @@
-# Dobro, triplo e raiz quadrada
+# Dobro, triplo e raiz quadrada - Exercicio 6
 
 n1 = int(input('Digite um número: '))
 n2 = int(n1*2)
