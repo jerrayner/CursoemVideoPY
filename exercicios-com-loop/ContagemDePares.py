@@ -1,4 +1,4 @@
-# Contagem de Pares
+# Contagem de Pares - Exercício 47
 
 from itertools import count
 from time import sleep

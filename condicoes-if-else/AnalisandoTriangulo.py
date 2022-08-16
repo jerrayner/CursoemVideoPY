@@ -1,4 +1,4 @@
-# Analisando Triângulo
+# Analisando Triângulo - Exercício 35
 
 a = float(input('Insira a primeira medida: '))
 b = float(input('Insira a segunda medida: '))

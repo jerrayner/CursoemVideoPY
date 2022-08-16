@@ -1,3 +1,6 @@
+# Exercício com tuplas - Exercicio 48
+
+
 nomes = ['Rafael', 'Maria', 'Ana']
 idades = [10,20,30] # Listas - Conjunto de informações que pode ter uma dimensão ou mais,e pode ter alterações ao longo do código.
 

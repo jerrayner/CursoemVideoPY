@@ -1,4 +1,4 @@
-# Maior e Menor Valor
+# Maior e Menor Valor - Exercício 33
 
 primeiro = int(input("Primeiro valor: "))
 segundo = int(input("Segundo valor: "))

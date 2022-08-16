@@ -1,4 +1,5 @@
-# Aumentos Múltiplos
+# Aumentos Múltiplos - Exercício 34
+
 sal = int(input('Qual é o salário do funcionário? '))
 alto = sal + (sal/ 100 * 10)
 if sal >= 1250:

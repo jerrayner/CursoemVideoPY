@@ -1,4 +1,4 @@
-# Jogo de Adivinhe o Número
+# Jogo de Adivinhe o Número - Exercício 28
 
 from random import randint
 

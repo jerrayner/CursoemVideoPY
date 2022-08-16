@@ -1,4 +1,4 @@
-# Par ou Ímpar?
+# Par ou Ímpar? - Exercício 30
 
 num = int(input('Digite um número: '))
 if num % 2 == 0:
