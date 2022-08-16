@@ -1,4 +1,4 @@
-# Verificando as Primeiras Letras de um Texto
+# Verificando as Primeiras Letras de um Texto - Exercicio 24
 # Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome "SANTO".
 
 nome = str(input('Onde você nasceu?: '))

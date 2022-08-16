@@ -1,4 +1,4 @@
-# Primeiro e Último Nome de uma Pessoa
+# Primeiro e Último Nome de uma Pessoa - Exercicio 27
 
 nome = str(input('Digite seu nome completo: ')).strip().split()
 

@@ -1,4 +1,4 @@
-# Separando Digitos de um Número
+# Separando Digitos de um Número - Exercício 23
 
 num = input('Digite um número entre 0 e 9999: ')
 # Formata a string com 4 espaços, alinhado à direita e completa com 0

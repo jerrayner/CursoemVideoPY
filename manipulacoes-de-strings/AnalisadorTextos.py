@@ -1,4 +1,4 @@
-# Analisador de Textos
+# Analisador de Textos - Exercicio 22
 
 nome = (input('Digite o seu nome completo: ')).strip()
 print('Analisando seu nome...')
