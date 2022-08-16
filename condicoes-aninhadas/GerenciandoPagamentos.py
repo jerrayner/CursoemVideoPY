@@ -1,4 +1,4 @@
-# Gerenciador de Pagamentos
+# Gerenciador de Pagamentos - Exercício 44
 
 from time import sleep
 valor = float (input('Digite o valor do produto: R$'))

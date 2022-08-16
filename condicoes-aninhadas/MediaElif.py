@@ -1,4 +1,4 @@
-# Média
+# Média - Exercício 40
 
 nome = str(input('Nome do aluno: '))
 nota1 = float(input('Digite a primeira nota: '))

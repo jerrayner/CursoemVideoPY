@@ -1,4 +1,4 @@
-# Comparando Números
+# Comparando Números - Exercício 38
 
 num1 = int(input('Digite um número: '))
 num2 = int(input('Digite outro número: '))

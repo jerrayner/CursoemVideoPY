@@ -1,4 +1,4 @@
-# Índice de Massa Corporal
+# Índice de Massa Corporal - Exercício 43
 
 sexo = int(input('''Qual seu sexo?
 [1] HOMEM

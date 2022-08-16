@@ -1,4 +1,4 @@
-# Pedra, Papel e Tesoura / Jokenpô
+# Pedra, Papel e Tesoura / Jokenpô - Exercicio 45
 
 from random import randint
 from time import sleep

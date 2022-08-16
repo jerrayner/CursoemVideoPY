@@ -1,4 +1,4 @@
-# Aprovando Empréstimo
+# Aprovando Empréstimo - Exercício 36
 
 casa = float(input('Qual o valor da casa? R$'))
 salario = float(input('Qual o seu salário? R$ '))

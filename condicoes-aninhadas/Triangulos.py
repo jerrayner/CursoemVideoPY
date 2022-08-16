@@ -1,4 +1,4 @@
-# Triângulos
+# Triângulos - Exercício 42
 
 s1 = float(input('Primeiro segmento: '))
 s2 = float(input('Segundo segmento: '))
